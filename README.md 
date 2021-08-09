@@ -1,0 +1,9 @@
+1=  I took the twitter api
+2= I opened a twitter developer account to be able to get some feed from twitter
+3= i get my Barer token and access key but for time line i ony used the Barer token
+4= I used my twitter account id and store it inside a variable if you want you can change it with your account id
+and get some feed from your timeline
+5 = I made one assertion for  statusCode (should be 200)
+6 = I created pojo classes so i can get any field from payload
+7=  I made an  Assertion for verification of data from meta data array
+8=  I push my project to the git hub
